@@ -4,3 +4,5 @@ echo "Build Started..."
 date
 echo "Hello from Jenkins CI Pipeline"
 echo "Build Completed Successfully"
+
+echo "Testing the Jenkins pipeline automation"
